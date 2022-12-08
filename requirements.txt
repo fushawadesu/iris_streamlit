@@ -1,0 +1,2 @@
+use below libraries
+streamlit, numpy, pandas, scikit-learn
